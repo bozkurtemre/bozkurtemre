@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/watashiemredesu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="watashiemredesu" height="30" width="40" /></a>
+<a href="https://twitter.com/EmreBozkurtW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="EmreBozkurtW" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emrebozkrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrebozkrt" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13187058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13187058" height="30" width="40" /></a>
 <a href="https://fb.com/nerdisdone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nerdisdone" height="30" width="40" /></a>
