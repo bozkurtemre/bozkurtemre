@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://i.gifer.com/origin/3a/3ad9c85087c6125238bbf8c28c7501dd.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Emre, a software developer 👨‍💻 working since 2020 🚀</div>  
   
 
