@@ -1,18 +1,17 @@
 ### <div align="center">I'm Emre, a software developer 👨‍💻 working since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [EasyCep](https://easycep.com)  
+- 🔭 I’m currently working on [EasyCep](https://easycep.com)
   
 
-- 🌱 I’m currently learning Go and React  
+- 🌱 I’m currently learning Go and React
   
 
-- ❓ Ask me about anything related to PHP stack and related technologies  
+- ❓ Ask me about anything related to PHP stack and related technologies
   
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
-<br/>
+- ⚡ Fun fact: I use tabs over spaces
+
 
 ## Connect with me  
 <div align="center">
