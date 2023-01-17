@@ -12,9 +12,7 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
   
-
-<br/>  
-
+<br/>
 
 ## Connect with me  
 <div align="center">
