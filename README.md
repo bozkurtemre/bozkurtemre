@@ -1,7 +1,7 @@
 ### <div align="center">I'm Emre, a software developer 👨‍💻 working since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [@easycep](https://easycep.com)
+- 🔭 I’m currently working on [Easycep](https://easycep.com)
   
 
 - 🌱 I’m currently learning Go and React
