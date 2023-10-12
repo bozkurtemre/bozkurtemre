@@ -1,4 +1,4 @@
-### <div align="center">I'm Emre, a software developer 👨‍💻 working since 2020 🚀</div>  
+### <div align="center">I'm Emre, a software developer 👨‍💻 working since 2018 🚀</div>  
 
 
 - 🔭 I’m currently working on [EasyCep](https://easycep.com)
