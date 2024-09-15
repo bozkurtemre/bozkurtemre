@@ -11,14 +11,3 @@
 <p align="left">Building, coding, and exploring the intersections of PHP and Go, I'm on a mission to craft innovative, efficient solutions by blending these powerful languages.</p>
 
 ###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/emrebdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://bozkurtemre.medium.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
-  </a>
-</div>
-
-###
