@@ -11,3 +11,5 @@
 <p align="left">Building, coding, and exploring the intersections of PHP and Go, I'm on a mission to craft innovative, efficient solutions by blending these powerful languages.</p>
 
 ###
+
+[![My Skills](https://skillicons.dev/icons?i=golang,php,aws,cloudflare,git,linux,gcp,postgres,mysql,redis,rabbitmq,docker&theme=dark)](https://skillicons.dev)
