@@ -12,4 +12,4 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=golang,php,aws,gcp,java,cloudflare,git,linux,postgres,mysql,redis,rabbitmq,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=golang,php,java,aws,gcp,cloudflare,git,linux,postgres,mysql,redis,rabbitmq,docker&theme=dark)](https://skillicons.dev)
