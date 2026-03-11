@@ -14,6 +14,4 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=bozkurtemre&theme=dark&hide_border=true&background=FFFFFF00">
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bozkurtemre&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![My Skills](https://skillicons.dev/icons?i=golang,php,java,aws,gcp,cloudflare,linux,postgres,mysql,redis,rabbitmq,docker,githubactions,elasticsearch&theme=dark)](https://skillicons.dev)
